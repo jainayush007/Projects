@@ -1,2 +1,2 @@
 # Projects
-My projects in AIML
+My projects in Data and AIML
